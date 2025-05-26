@@ -1,0 +1,2 @@
+data_id,spike_id,spikelet,inRange,rank,damp,c22,anomaly_label_from,anomaly_label_to,window_label,spikelet_type,spikelet_from,spikelet_to,from_NN,to_NN,window_spikelet,distLengthNorm,numSpikelet,numSlidingWindow,time,total_length,testNumRate,adjust
+66,7996,1,1,1,1,1,8000,8025,25,-2,7981,8034,2355,2408,54,0.485830625441343,1490,6275,5.4111826,9998,1,1
