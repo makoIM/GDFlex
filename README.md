@@ -76,16 +76,17 @@ For a step‑by‑step guide see **`doc/0_HowToRunGDFlex.pdf`**.
 
 If you use GDFlex or the processed datasets in your work, please cite:
 
-Imamura, M., and Nakamura, T. 2025. Generalized Discords for Time Series Anomaly Detection
-with Flexible Subsequence Lengths. ACM SIGKDD. <https://doi.org/10.1145/3711896.3736977>
+Imamura, M., and Nakamura, T. 2025. *Generalized Discords for Time Series Anomaly Detection with Flexible Subsequence Lengths.* ACM SIGKDD.  
+<https://doi.org/10.1145/3711896.3736977>
 
 For the original datasets:
 
-Dau, A. H., Bagnall, A., Kamgar, K., Yeh, C.-C. M., Zhu, Y., Gharghabi, S., Ratanamahatana, C. A., and Keogh, E. 2018.  The UCR Time Series Archive. Retrieved from <https://www.cs.ucr.edu/~eamonn/time_series_data_2018>
+Dau, A. H., Bagnall, A., Kamgar, K., Yeh, C.-C. M., Zhu, Y., Gharghabi, S., Ratanamahatana, C. A., and Keogh, E. 2018. *The UCR Time Series Archive.* Retrieved from  
+<https://www.cs.ucr.edu/~eamonn/time_series_data_2018>
 
 GDFlex makes use of the distance profile computation programs published in the following paper or provided on its supporting website:
 
-Zhu, Y., Imamura, M., Nikovski, D., and Keogh, E. 2017. Matrix Profile VII: Time Series Chains—A New Primitive for Time Series Data Mining. In Proceedings of IEEE ICDM, pp. 695–704.  
+Zhu, Y., Imamura, M., Nikovski, D., and Keogh, E. 2017. *Matrix Profile VII: Time Series Chains—A New Primitive for Time Series Data Mining.* In *Proceedings of IEEE ICDM*, pp. 695–704.  
 <https://doi.org/10.1109/ICDM.2017.79>
 ---
 
