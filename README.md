@@ -86,8 +86,11 @@ Dau, A. H., Bagnall, A., Kamgar, K., Yeh, C.-C. M., Zhu, Y., Gharghabi, S., Rata
 
 GDFlex makes use of the distance profile computation programs published in the following paper or provided on its supporting website:
 
+```markdown
 Zhu, Y., Imamura, M., Nikovski, D., and Keogh, E. 2017. *Matrix Profile VII: Time Series Chains—A New Primitive for Time Series Data Mining.* In *Proceedings of IEEE ICDM*, pp. 695–704.  
 <https://doi.org/10.1109/ICDM.2017.79>
+```
+
 ---
 
 ## Acknowledgments
