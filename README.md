@@ -84,6 +84,7 @@ For the original datasets:
 Dau, A. H., Bagnall, A., Kamgar, K., Yeh, C.-C. M., Zhu, Y., Gharghabi, S., Ratanamahatana, C. A., and Keogh, E. 2018.  The UCR Time Series Archive. Retrieved from <https://www.cs.ucr.edu/~eamonn/time_series_data_2018>
 
 GDFlex makes use of the distance profile computation programs published in the following paper or provided on its supporting website:
+
 Zhu, Y., Imamura, M., Nikovski, D., and Keogh, E. Matrix Profile VII: Time Series Chains—A New Primitive for Time Series Data Mining, IEEE ICDM, pp. 695–704 (2017).<https://doi.org/10.1109/ICDM.2017.79>
 ---
 
