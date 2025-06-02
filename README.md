@@ -1,10 +1,9 @@
 # GDFlex
 
 ## Overview
-This repository accompanies the KDD 2025 paper
+This repository accompanies the paper
 
 > **Generalized Discords for Time‑Series Anomaly Detection with Flexible Subsequence Lengths**  
-> DOI: <https://doi.org/10.1145/3711896.3736977>
 
 It contains all MATLAB source code, example scripts, and documentation needed to reproduce the results reported in the paper.
 
