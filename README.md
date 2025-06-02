@@ -75,7 +75,8 @@ For a step‑by‑step guide see **`doc/0_HowToRunGDFlex.pdf`**.
 
 If you use GDFlex or the processed datasets in your work, please cite:
 
-Imamura, M., and Nakamura, T. 2025. *Generalized Discords for Time Series Anomaly Detection with Flexible Subsequence Lengths.* ACM SIGKDD.  
+Imamura, M., and Nakamura, T. 2025. *Generalized Discords for Time Series Anomaly Detection with Flexible Subsequence Lengths.* ACM SIGKDD. 
+<https://doi.org/10.1145/3711896.3736977>
 
 For the original datasets:
 
